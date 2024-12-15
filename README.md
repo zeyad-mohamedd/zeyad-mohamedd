@@ -8,13 +8,10 @@
   </a>
 </p>
 
-<br>
-
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
 
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
+<!-- <img align="right" src="https://i.postimg.cc/VNb8yNvz/Brown-UI-Frame-Types-of-Quadrilaterals-Who-am-I-Game-Presentation-3.png" width=20%> -->
 
-<br><br>
 - 👨‍💻 I'm a Penetration Tester.
 - :school: I am a Student @Computers & Control Engnerring .
 - :computer: I am passionate about cybersecurity and always learning new things.
@@ -23,16 +20,17 @@
 <be>
 
 
+<br><br>
 ## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%> My Competitive Programming Profiles
 
 <div align="center" width="100%">
-  <a href="https://www.spaceappschallenge.org/"><img src="https://i.postimg.cc/jjYfNLG1/space-apps-cairo-7m-Te-Oti-width-500.jpg" alt="Nasa Space Apps Cairo" width="10%"/></a>
+  <a href="https://www.spaceappschallenge.org/"><img src="https://i.postimg.cc/jjYfNLG1/space-apps-cairo-7m-Te-Oti-width-500.jpg" alt="Nasa Space Apps Cairo" width="8%"/></a>
   &emsp; 
-  <a href="https://r8.ieee.org/egypt-apmtt/?fbclid=IwY2xjawHMGgxleHRuA2FlbQIxMAABHSsD17TOzmKFqQo8zYZ5dujbIknrzdXV2_hCaTbM642VCJYsWUWFVA3csQ_aem_HLduMsbZR_M_8Ll611aYvg"><img src="https://i.postimg.cc/2j9BGHsh/My-Chapter-Logo-1.png" alt="IEEE Egypt AP-S / MTT-S Joint Chapter " width="16%"/></a>
+  <a href="https://r8.ieee.org/egypt-apmtt/?fbclid=IwY2xjawHMGgxleHRuA2FlbQIxMAABHSsD17TOzmKFqQo8zYZ5dujbIknrzdXV2_hCaTbM642VCJYsWUWFVA3csQ_aem_HLduMsbZR_M_8Ll611aYvg"><img src="https://i.postimg.cc/2j9BGHsh/My-Chapter-Logo-1.png" alt="IEEE Egypt AP-S / MTT-S Joint Chapter " width="12%"/></a>
   &emsp;
-  <a href="https://www.orangedigitalcenters.com/country/EG/home"><img src="https://i.postimg.cc/1zSgXbFh/images.png" alt="Orange Digital Center" width="8%"/></a>
+  <a href="https://www.orangedigitalcenters.com/country/EG/home"><img src="https://i.postimg.cc/1zSgXbFh/images.png" alt="Orange Digital Center" width="6%"/></a>
   &emsp;
-  <a href="https://acpc.global/"><img src="https://i.postimg.cc/BZzXHjFC/ACPC-LOGO-n-1-209x300.png" alt="ACPC" width="6%"/></a>
+  <a href="https://acpc.global/"><img src="https://i.postimg.cc/BZzXHjFC/ACPC-LOGO-n-1-209x300.png" alt="ACPC" width="4%"/></a>
   &emsp;
 </div>
 
