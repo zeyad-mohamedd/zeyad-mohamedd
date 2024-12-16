@@ -17,10 +17,3 @@ jobs:
         uses: Platane/snk@v2.2.1
         with:
           github_user_name: zeyad-mohamedd # تأكد من صحة اسم المستخدم
-          output: dist/github-contribution-grid-snake.svg
-
-      - name: Upload the animation
-        uses: actions/upload-artifact@v3
-        with:
-          name: snake-animation
-          path: dist/github-contribution-grid-snake.svg
