@@ -2,8 +2,8 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # تحديث يومي
-  workflow_dispatch:
+    - cron: "0 0 * * *" # يتم التحديث يوميًا
+  workflow_dispatch: # لتشغيل الـ Workflow يدويًا عند الحاجة
 
 jobs:
   generate:
@@ -14,9 +14,9 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generate Snake Animation
-        uses: Platane/snk@v2
+        uses: Platane/snk@v2.2.1
         with:
-          github_user_name: zeyad-mohamedd # ضع اسم المستخدم الخاص بك هنا
+          github_user_name: zeyad-mohamedd # تأكد من صحة اسم المستخدم
           output: dist/github-contribution-grid-snake.svg
 
       - name: Upload the animation
